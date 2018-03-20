@@ -1,0 +1,24 @@
+/* MRB brand */
+
+<style type="text/css">
+
+/*  Media queries widget */ 
+@media only screen and (max-width : 320px) { 
+  iframe{
+    width: 100%;
+    min-height: 960px;
+  }
+}
+@media only screen and (min-width : 321px) and (max-width : 516px){
+  iframe{
+    width: 80%;
+    min-height: 960px;  
+  }
+}
+@media only screen and (min-width : 517px) { 
+  iframe{
+    width: 60%;
+    height: 618px; 
+  }
+}   
+</style>
