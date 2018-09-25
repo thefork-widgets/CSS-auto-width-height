@@ -2,17 +2,17 @@
 <style type="text/css">
 /*  Media queries widget */ 
 @media only screen and (max-width : 320px) { 
- iframe{
+ iframe .eltenedor{
    min-height: 900px;
  }
 }
 @media only screen and (min-width : 321px) and (max-width : 516px){
- iframe{
+ iframe .eltenedor{
    min-height: 750px;  
  }
 }
 @media only screen and (min-width : 517px) { 
- iframe{
+ iframe .eltenedor{
    min-height: 670px; 
  }
 }   
