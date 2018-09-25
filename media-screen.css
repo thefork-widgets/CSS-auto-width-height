@@ -3,16 +3,19 @@
 /*  Media queries widget */ 
 @media only screen and (max-width : 320px) { 
  iframe .eltenedor{
+   width: 100%;
    min-height: 900px;
  }
 }
 @media only screen and (min-width : 321px) and (max-width : 516px){
  iframe .eltenedor{
+   width: 800%;
    min-height: 750px;  
  }
 }
 @media only screen and (min-width : 517px) { 
  iframe .eltenedor{
+   width: 60%;
    min-height: 670px; 
  }
 }   
