@@ -2,4 +2,9 @@
 
 CSS to present iframe content with different widths/height depending on device screen
 
-<iframe class="eltenedor" src="https://module.lafourchette.com/xx_XX/module/XXXX-XXXXX" style="border:none; scrolling:yes;"></iframe>
+<iframe class="thefork" src="https://module.lafourchette.com/xx_XX/module/XXXX-XXXXX"></iframe>
+
+
+Example: 
+
+More details: http://calendarexamples.thefork.com/faq_gb.html#mediaQueries
