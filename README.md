@@ -6,6 +6,7 @@ CSS to present iframe content with different widths/height depending on device s
 
 <iframe class="thefork" src="https://module.lafourchette.com/xx_XX/module/XXXX-XXXXX"></iframe>
 
+
 2 - Paste the CSS styles just before </head> tag in the website code.
 
 
